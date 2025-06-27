@@ -1,0 +1,9 @@
+{
+	"name": "ankitadatafactorunewdemo",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c2344f6-4be8-48a6-8459-4f34772f7447",
+		"tenantId": "a7740dde-268c-435f-a9cf-d50456c67eac"
+	}
+}
